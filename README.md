@@ -1,6 +1,6 @@
 # LeetCode Prep – Nandeesh 📝
 
-A repository of LeetCode problems solved by Nandesh.
+A repository of LeetCode problems solved by Nandeesh.
 Focused on Data Structures, Algorithms, and Dynamic Programming for interview preparation (15+ LPA).
 
 ## 📚 Topics Covered
